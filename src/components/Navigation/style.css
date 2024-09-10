@@ -1,0 +1,6 @@
+.nav__item__list {
+    display: flex;
+    gap: 20px;
+    font-family: "lobster";
+    color: rgb(202, 47, 47);
+}

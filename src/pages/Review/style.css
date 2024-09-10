@@ -1,0 +1,20 @@
+input {
+    width: 100%;
+}
+
+input[type=text] {
+    border: 2px solid red;
+    border-radius: 4px;
+}
+
+input[type=text] {
+    background-color: #3CBC8D;
+    color: white;
+}
+
+.form__content {
+    max-width: 300px;
+    margin: auto;
+    background-color: brown;
+    padding: 50px;
+}
